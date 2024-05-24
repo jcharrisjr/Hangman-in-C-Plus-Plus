@@ -6,10 +6,10 @@
 // Description:  It's Hangman man!!!
 //				
 // Compile Instructions: save this code as hangmanV4.cpp
-//						 then, using the gnu compiler type:
-//						 g++ hangmanV4.cpp -o hangman
-//			       chmod 755 ./hangman
-//						 then you may copy or link it to /usr/local/bin if you wish
+//			 then, using the gnu compiler type:
+//			 g++ hangmanV4.cpp -o hangman
+//			 chmod 755 ./hangman
+//			 then you may copy or link it to /usr/local/bin if you wish
 //
 // 		  Author's Note: This program is yours to do with as you wish, I ask only
 //                     as many before me have asked, that you leave this comment
