@@ -19,7 +19,6 @@
 #include <string>
 #include <cstdlib>
 #include <ctime>
-#include <iostream>
 #include <termios.h>
 #include <fstream>
 #include <vector>
